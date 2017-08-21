@@ -9,7 +9,7 @@ This project provides the End users with a tidy data set that can be used for la
 The analyzed data set is data collected from the accelerometers from a  mobile device, [a raw data can be found here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip). A description the used data can be found the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 #### Project deliverables
-##### run_analysis.R
+##### >run_analysis.R
 R script that does following:
 
 	1. Merges the training and the test sets to create one data set.
@@ -20,7 +20,8 @@ R script that does following:
 	
 	4. Appropriately labels the data set with descriptive variable names. 
 	
-	5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+	5. From the data set in step 4, creates a second, independent tidy data set with the average 
+	of each variable for each activity and each subject.
 
-##### CodeBook.MD 
+##### >CodeBook.MD 
 a code book that describes the variables, the data, and any transformations or work that performed to clean up the source data.
