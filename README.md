@@ -2,6 +2,9 @@
 
 Repo of the project for the Johns Hopkins university Getting and Cleaning Data course.
 
+> by Mirzarashid Abbasov
+
+
 #### Overview
 This project provides the End users with a tidy data set that can be used for later analysis and all necessary information which made from source. 
 
