@@ -6,7 +6,7 @@ Repo of the project for the Johns Hopkins university Getting and Cleaning Data c
 This project provides the End users with a tidy data set that can be used for later analysis and all necessary information which made from source. 
 
 #### Source Data
-The analyzed data set is data collected from the accelerometers from a  mobile device (a raw data can be found here). A description the used data can be found the UCI Machine Learning Repository 
+The analyzed data set is data collected from the accelerometers from a  mobile device [a raw data can be found here](https://pages.github.com/). A description the used data can be found the UCI Machine Learning Repository 
 
 #### Project deliverables
 ##### run_analysis.R
