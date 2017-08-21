@@ -30,3 +30,8 @@ R script that does following:
 > CodeBook.MD 
 
 a code book that describes the variables, the data, and any transformations or work that performed to clean up the source data.
+
+> tidyData.txt
+
+the project deliverable which consiste a tidy data set.
+
