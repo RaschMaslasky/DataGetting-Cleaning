@@ -3,7 +3,8 @@
 # ---------------------------------------------------
 # Download and unzip the dataset which obtained from 
 # https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-#
+# 
+# by Mirzarashid Abbasov
 # --------------------------------------------------
 
 # set working directory
